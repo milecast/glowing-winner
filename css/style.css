@@ -1,0 +1,153 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;  
+}
+
+button{
+    color: white !important;
+    
+}
+
+.container a{
+    color: black;
+    font-weight: 500;
+    text-decoration: underline;
+    font-size: small;
+}
+
+.container {
+    margin: auto;
+    background-color: #E4E1E1;
+    max-width: 90%;
+    color:#646464;
+    font-weight: 300;
+}
+
+.container h1 {
+    padding-top: 5%;
+    text-align: center;
+    font-style: italic;
+    color: black;
+    font-weight: 300;
+}
+
+.col-sm{
+    margin-bottom: 3%;
+    margin-top: 5%;
+}
+
+#col1{ 
+    border-right: solid 1px;
+    border-color: #9c9999;  
+    font-size: small;
+    text-align: left;
+    padding-left: 10%;
+    max-width: 50%;
+}
+
+#col1 form, #col1 p{
+    max-width: 80%;
+}
+
+#col1 form {
+    font-size: medium;
+}
+
+#col1 form input{
+    color: black;
+    width: 100%;
+}
+
+#btn_datos{
+    margin-top: 2%;
+    margin-left: 15%;
+    width: 70%;
+    min-width: 50%;
+    box-shadow: 2px 2px 5px #999;
+}
+
+#col2 img{
+    padding-left: 10%;
+    width: 97%;
+}
+
+#btn_accion{
+    margin-top: 19%;
+    margin-left: 40%;
+    width: 22%;
+    box-shadow: 2px 2px 5px #999;
+}
+
+.container1{
+    margin: auto;
+    background-color: #5A5959;
+    max-width: 90%;
+    color: white;
+    font-weight: 300;
+}
+
+.container2{
+    padding-top: 5%;
+}
+
+.container2 h4{
+    font-weight: 300;
+    margin-left: 10%;
+    padding-left: 1%;
+    border-left: solid;
+    border-color: #ffc107;
+}
+
+.container2 p, .container2 a, .container2 button, .container2 label{
+    margin-left: 11.5%;
+    font-size: small;
+}
+
+.container2 p{
+    padding-top: 1%;
+    max-width: 50%;
+    text-align: left;
+}
+
+.container2 label{
+    font-weight: 500;
+    padding-top: 2%;
+}
+
+.container1 a{
+    color: white;
+    text-decoration: underline;
+    font-weight: 500;
+}
+
+#btn_lorem{
+    margin-top: 1.5%;
+    margin-left: 11.7%;
+    width: 15%;
+    padding: 0.5% 0.5% 0.5% 0.5%;
+}
+
+.social{
+    margin-left: 11.5%;
+    margin-top: 0.5%;
+    border-left: solid;
+}
+
+i{
+    padding-left: 2%;
+}
+
+hr{
+    margin-left: 11.5%;
+    margin-right: 11.5%;
+    color: gray;
+    border: solid 1px;
+    margin-top: 3%;
+}
+
+footer .centrado{
+    margin-left: 44%;
+    width: 13%;
+}
